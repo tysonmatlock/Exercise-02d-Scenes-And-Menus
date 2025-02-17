@@ -10,9 +10,13 @@ Created using [Unity 2022.3.45f](https://unity.com)
 
 Assets are provided by:
 [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
+
 [Foozle](https://foozlecc.itch.io/void-main-ship), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
+
 [dopestuff](https://pixabay.com/music/synthwave-neon-gaming-128925/), provided under a [Pixabay Content License](https://pixabay.com/service/license-summary/).
+
 [freesound_community](https://pixabay.com/sound-effects/button-pressed-38129/), provided under a [Pixabay Content License](https://pixabay.com/service/license-summary/).
+
 [hiro-std](https://www.creativefabrica.com/product/hardliners/), provided under a [Personal Use License](https://www.creativefabrica.com/product/hardliners/).
 
 In addition to the satisfactory requirements of this project, I incorporated the following:
